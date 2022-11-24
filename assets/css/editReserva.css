@@ -1,0 +1,10 @@
+.changeRes{
+    width: 100%;
+    text-align: center;
+}
+.btn-reserva-change{
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: rgb(54, 240, 116);
+    padding: 5px;
+}
